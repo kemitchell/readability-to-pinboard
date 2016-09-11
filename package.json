@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "flush-write-stream": "^1.0.0",
+    "ndjson": "^1.4.3",
+    "pump": "^1.0.1",
+    "run-parallel": "^1.1.6",
+    "through2": "^2.0.1"
+  }
+}
